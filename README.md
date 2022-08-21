@@ -13,3 +13,5 @@ os posts do site. O outro objecto foi aprender a trabalhar o back no front com N
 <li>Stripe</li>
 <li>Github Auth</li>
 </ul>
+
+<img src='https://github.com/JulianaSobaJava/igNews/blob/main/public/images/banner.png' alt='Banner Image'/>
